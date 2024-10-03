@@ -23,7 +23,7 @@ You can pass an options object to influence the type of color it produces. The o
 
 ## Examples
 
-```perl6
+```raku
 
 # Returns a hex code for an attractive color
 RandomColor.new.list;
